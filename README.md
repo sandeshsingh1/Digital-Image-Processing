@@ -14,6 +14,6 @@ Looking forward to applying this knowledge in my projects on **Digital Image Pro
 ---
 
 📌 *Certificate of Completion*  
-![MATLAB Onramp Certificate](certificate.png) <!-- Replace with your certificate image file path -->
+![MATLAB Onramp Certificate](matlabcertificate.png) <!-- Replace with your certificate image file path -->
 
 #MATLAB #DigitalImageProcessing #LearningJourney
