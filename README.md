@@ -17,3 +17,4 @@ Looking forward to applying this knowledge in my projects on **Digital Image Pro
 ![MATLAB Onramp Certificate](matlabcertificate.png) <!-- Replace with your certificate image file path -->
 
 #MATLAB #DigitalImageProcessing #LearningJourney
+#Adding bitslicing and histogram equaliser in...
